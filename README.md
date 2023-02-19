@@ -1,1 +1,1 @@
-# Self-Projects
+# Self-Projects as a practice for the development
