@@ -1,1 +1,0 @@
-A Weather App with details including Temperature, Humidity and also error case of any occurs
