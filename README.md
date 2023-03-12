@@ -1,4 +1,4 @@
- In this project I tried to replicate the famous delivery giant Zomato. Included many pages depending upon the nav links. 
+ In this project I tried to replicate the famous delivery giant Zomato as a learning project. Included many pages depending upon the nav links. 
  
  Html and CSS is used in the construction of the site completly. 
  Page includes one Hero section and other sections that includes different varities the giant is offering.
