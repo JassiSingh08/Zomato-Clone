@@ -1,4 +1,3 @@
-Zomato clone.
  In this project I tried to replicate the famous delivery giant Zomato. Included many pages depending upon the nav links. 
  
  Html and CSS is used in the construction of the site completly. 
